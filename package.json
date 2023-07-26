@@ -4,7 +4,8 @@
   "main": "1-intro.js",
   "scripts": {
     "read": "nodemon ./1-event-loop-examples/1-readfile.js",
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "astart":"nodemon ./2-async-patterns/3-async-await.js"
   },
   "author": "",
   "license": "ISC",
